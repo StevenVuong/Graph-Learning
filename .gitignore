@@ -2,3 +2,6 @@
 venv/
 *-checkpoint.ipynb
 data/
+*.pyc
+*.p
+*.ftz
